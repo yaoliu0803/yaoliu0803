@@ -1,5 +1,6 @@
 ### Hi there 👋 Welcome
 - 📫 How to reach me: send email to liuyao_0803@163.com
+- 🌱 I’m currently learning image fusion
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaoliu0803&show_icons=true&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
